@@ -1,0 +1,26 @@
+h1{
+ color: aqua;
+}
+h3{
+    color: chartreuse;
+}
+h4{
+    color: darkmagenta;
+}
+body{
+    background-color: black;
+}
+
+
+marquee{
+
+}
+.mar-text{
+    font-size: 90px;
+    color: white;
+}
+
+i{
+    color: white;
+    font-size: 500px;
+}
